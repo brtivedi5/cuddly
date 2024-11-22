@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Hello, World!"
-echo "this is the change i made on github"
+echo "Hello, World!git log"
+echo "this is the changed i made on computer"
